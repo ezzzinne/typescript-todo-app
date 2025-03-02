@@ -1,0 +1,20 @@
+{
+  "name": "typescript-todo-app",
+  "version": "1.0.0",
+  "description": "A simple **Todo List application** built with **TypeScript** that allows users to:\r - Add tasks with a **due date**\r - Mark tasks as **completed**\r - Remove tasks \r - List all tasks\r - Filter tasks by completion status\r - Update task descriptions\r - Clear all completed tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezzzinne/typescript-todo-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezzzinne/typescript-todo-app/issues"
+  },
+  "homepage": "https://github.com/ezzzinne/typescript-todo-app#readme"
+}
